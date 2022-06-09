@@ -89,6 +89,8 @@ It's features are adding single contact,adding multiple contact,get authorized, 
   this will return the contacts with name having "gupta" and address having "delhi" substring in it.If some field are left blank it will not 
   do filtering on it. Increasing the number of data in the fields narrows the search result.
  
+   
+   Comment is a good way to know if it works.
   
 
   
